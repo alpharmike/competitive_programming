@@ -9,6 +9,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_12250.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_12279.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_12289.cpp.obj"
+  "CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_12372.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_272.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/main.cpp.obj"
   "CompetitiveProgramming.exe"
