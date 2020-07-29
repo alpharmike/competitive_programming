@@ -419,6 +419,60 @@ Super_Easy/UVa_12372.cpp.s:
 	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_12372.cpp.s
 .PHONY : Super_Easy/UVa_12372.cpp.s
 
+Super_Easy/UVa_12403.obj: Super_Easy/UVa_12403.cpp.obj
+
+.PHONY : Super_Easy/UVa_12403.obj
+
+# target to build an object file
+Super_Easy/UVa_12403.cpp.obj:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_12403.cpp.obj
+.PHONY : Super_Easy/UVa_12403.cpp.obj
+
+Super_Easy/UVa_12403.i: Super_Easy/UVa_12403.cpp.i
+
+.PHONY : Super_Easy/UVa_12403.i
+
+# target to preprocess a source file
+Super_Easy/UVa_12403.cpp.i:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_12403.cpp.i
+.PHONY : Super_Easy/UVa_12403.cpp.i
+
+Super_Easy/UVa_12403.s: Super_Easy/UVa_12403.cpp.s
+
+.PHONY : Super_Easy/UVa_12403.s
+
+# target to generate assembly for a file
+Super_Easy/UVa_12403.cpp.s:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_12403.cpp.s
+.PHONY : Super_Easy/UVa_12403.cpp.s
+
+Super_Easy/UVa_12577.obj: Super_Easy/UVa_12577.cpp.obj
+
+.PHONY : Super_Easy/UVa_12577.obj
+
+# target to build an object file
+Super_Easy/UVa_12577.cpp.obj:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_12577.cpp.obj
+.PHONY : Super_Easy/UVa_12577.cpp.obj
+
+Super_Easy/UVa_12577.i: Super_Easy/UVa_12577.cpp.i
+
+.PHONY : Super_Easy/UVa_12577.i
+
+# target to preprocess a source file
+Super_Easy/UVa_12577.cpp.i:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_12577.cpp.i
+.PHONY : Super_Easy/UVa_12577.cpp.i
+
+Super_Easy/UVa_12577.s: Super_Easy/UVa_12577.cpp.s
+
+.PHONY : Super_Easy/UVa_12577.s
+
+# target to generate assembly for a file
+Super_Easy/UVa_12577.cpp.s:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_12577.cpp.s
+.PHONY : Super_Easy/UVa_12577.cpp.s
+
 Super_Easy/UVa_272.obj: Super_Easy/UVa_272.cpp.obj
 
 .PHONY : Super_Easy/UVa_272.obj
@@ -515,6 +569,12 @@ help:
 	@echo ... Super_Easy/UVa_12372.obj
 	@echo ... Super_Easy/UVa_12372.i
 	@echo ... Super_Easy/UVa_12372.s
+	@echo ... Super_Easy/UVa_12403.obj
+	@echo ... Super_Easy/UVa_12403.i
+	@echo ... Super_Easy/UVa_12403.s
+	@echo ... Super_Easy/UVa_12577.obj
+	@echo ... Super_Easy/UVa_12577.i
+	@echo ... Super_Easy/UVa_12577.s
 	@echo ... Super_Easy/UVa_272.obj
 	@echo ... Super_Easy/UVa_272.i
 	@echo ... Super_Easy/UVa_272.s
