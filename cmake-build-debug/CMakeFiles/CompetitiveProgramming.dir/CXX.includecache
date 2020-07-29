@@ -6,9 +6,49 @@
 
 #IncludeRegexTransform: 
 
-D:/CLionProjects/CompetitiveProgramming/main.cpp
+D:/CLionProjects/CompetitiveProgramming/Super Easy/UVa_11044.cpp
+iostream
+-
+
+D:/CLionProjects/CompetitiveProgramming/Super Easy/UVa_11172.cpp
+iostream
+-
+
+D:/CLionProjects/CompetitiveProgramming/Super Easy/UVa_1124.cpp
+iostream
+-
+
+D:/CLionProjects/CompetitiveProgramming/Super Easy/UVa_11364.cpp
+iostream
+-
+
+D:/CLionProjects/CompetitiveProgramming/Super Easy/UVa_11498.cpp
+iostream
+-
+
+D:/CLionProjects/CompetitiveProgramming/Super Easy/UVa_11547.cpp
+iostream
+-
+
+D:/CLionProjects/CompetitiveProgramming/Super Easy/UVa_11727.cpp
+iostream
+-
+
+D:/CLionProjects/CompetitiveProgramming/Super Easy/UVa_12250.cpp
 iostream
 -
 string.h
+-
+
+D:/CLionProjects/CompetitiveProgramming/Super Easy/UVa_12279.cpp
+iostream
+-
+
+D:/CLionProjects/CompetitiveProgramming/Super Easy/UVa_272.cpp
+iostream
+-
+
+D:/CLionProjects/CompetitiveProgramming/main.cpp
+iostream
 -
 

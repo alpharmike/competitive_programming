@@ -17,6 +17,8 @@ CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_11727.cpp.obj: ../Super\ Ea
 
 CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_12250.cpp.obj: ../Super\ Easy/UVa_12250.cpp
 
+CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_12279.cpp.obj: ../Super\ Easy/UVa_12279.cpp
+
 CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_272.cpp.obj: ../Super\ Easy/UVa_272.cpp
 
 CMakeFiles/CompetitiveProgramming.dir/main.cpp.obj: ../main.cpp
