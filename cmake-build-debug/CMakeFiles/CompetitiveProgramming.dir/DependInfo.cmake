@@ -6,6 +6,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "D:/CLionProjects/CompetitiveProgramming/Easy/UVa_10300.cpp" "D:/CLionProjects/CompetitiveProgramming/cmake-build-debug/CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_10300.cpp.obj"
   "D:/CLionProjects/CompetitiveProgramming/Easy/UVa_11332.cpp" "D:/CLionProjects/CompetitiveProgramming/cmake-build-debug/CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11332.cpp.obj"
+  "D:/CLionProjects/CompetitiveProgramming/Easy/UVa_11559.cpp" "D:/CLionProjects/CompetitiveProgramming/cmake-build-debug/CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11559.cpp.obj"
+  "D:/CLionProjects/CompetitiveProgramming/Easy/UVa_11679.cpp" "D:/CLionProjects/CompetitiveProgramming/cmake-build-debug/CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11679.cpp.obj"
   "D:/CLionProjects/CompetitiveProgramming/Easy/UVa_621.cpp" "D:/CLionProjects/CompetitiveProgramming/cmake-build-debug/CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_621.cpp.obj"
   "D:/CLionProjects/CompetitiveProgramming/Super Easy/UVa_11044.cpp" "D:/CLionProjects/CompetitiveProgramming/cmake-build-debug/CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_11044.cpp.obj"
   "D:/CLionProjects/CompetitiveProgramming/Super Easy/UVa_11172.cpp" "D:/CLionProjects/CompetitiveProgramming/cmake-build-debug/CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_11172.cpp.obj"

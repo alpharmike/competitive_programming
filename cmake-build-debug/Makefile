@@ -176,6 +176,60 @@ Easy/UVa_11332.cpp.s:
 	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11332.cpp.s
 .PHONY : Easy/UVa_11332.cpp.s
 
+Easy/UVa_11559.obj: Easy/UVa_11559.cpp.obj
+
+.PHONY : Easy/UVa_11559.obj
+
+# target to build an object file
+Easy/UVa_11559.cpp.obj:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11559.cpp.obj
+.PHONY : Easy/UVa_11559.cpp.obj
+
+Easy/UVa_11559.i: Easy/UVa_11559.cpp.i
+
+.PHONY : Easy/UVa_11559.i
+
+# target to preprocess a source file
+Easy/UVa_11559.cpp.i:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11559.cpp.i
+.PHONY : Easy/UVa_11559.cpp.i
+
+Easy/UVa_11559.s: Easy/UVa_11559.cpp.s
+
+.PHONY : Easy/UVa_11559.s
+
+# target to generate assembly for a file
+Easy/UVa_11559.cpp.s:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11559.cpp.s
+.PHONY : Easy/UVa_11559.cpp.s
+
+Easy/UVa_11679.obj: Easy/UVa_11679.cpp.obj
+
+.PHONY : Easy/UVa_11679.obj
+
+# target to build an object file
+Easy/UVa_11679.cpp.obj:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11679.cpp.obj
+.PHONY : Easy/UVa_11679.cpp.obj
+
+Easy/UVa_11679.i: Easy/UVa_11679.cpp.i
+
+.PHONY : Easy/UVa_11679.i
+
+# target to preprocess a source file
+Easy/UVa_11679.cpp.i:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11679.cpp.i
+.PHONY : Easy/UVa_11679.cpp.i
+
+Easy/UVa_11679.s: Easy/UVa_11679.cpp.s
+
+.PHONY : Easy/UVa_11679.s
+
+# target to generate assembly for a file
+Easy/UVa_11679.cpp.s:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11679.cpp.s
+.PHONY : Easy/UVa_11679.cpp.s
+
 Easy/UVa_621.obj: Easy/UVa_621.cpp.obj
 
 .PHONY : Easy/UVa_621.obj
@@ -623,6 +677,12 @@ help:
 	@echo ... Easy/UVa_11332.obj
 	@echo ... Easy/UVa_11332.i
 	@echo ... Easy/UVa_11332.s
+	@echo ... Easy/UVa_11559.obj
+	@echo ... Easy/UVa_11559.i
+	@echo ... Easy/UVa_11559.s
+	@echo ... Easy/UVa_11679.obj
+	@echo ... Easy/UVa_11679.i
+	@echo ... Easy/UVa_11679.s
 	@echo ... Easy/UVa_621.obj
 	@echo ... Easy/UVa_621.i
 	@echo ... Easy/UVa_621.s
