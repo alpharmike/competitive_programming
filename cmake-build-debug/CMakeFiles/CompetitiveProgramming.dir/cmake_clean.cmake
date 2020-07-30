@@ -1,4 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_10300.cpp.obj"
+  "CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11332.cpp.obj"
+  "CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_621.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_11044.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_11172.cpp.obj"
   "CMakeFiles/CompetitiveProgramming.dir/Super_Easy/UVa_1124.cpp.obj"

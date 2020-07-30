@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/CLionProjects/CompetitiveProgramming/Super Easy/UVa_12289.cpp
-iostream
--
-
 D:/CLionProjects/CompetitiveProgramming/main.cpp
 iostream
+-
+string.h
 -
 

@@ -80,6 +80,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/CLionProjects/CompetitiveProgramming/Easy/UVa_10300.cpp">
+			<Option target="CompetitiveProgramming"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/CompetitiveProgramming/Easy/UVa_11332.cpp">
+			<Option target="CompetitiveProgramming"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/CompetitiveProgramming/Easy/UVa_621.cpp">
+			<Option target="CompetitiveProgramming"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/CompetitiveProgramming/Super Easy/UVa_11044.cpp">
 			<Option target="CompetitiveProgramming"/>
 		</Unit>
