@@ -316,6 +316,110 @@ CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11679.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11679.cpp.s"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\CompetitiveProgramming\Easy\UVa_11679.cpp -o CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_11679.cpp.s
 
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11764.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11764.cpp.obj: ../Easy/UVa_11764.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11764.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_11764.cpp.obj -c D:\CLionProjects\CompetitiveProgramming\Easy\UVa_11764.cpp
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11764.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11764.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\CompetitiveProgramming\Easy\UVa_11764.cpp > CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_11764.cpp.i
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11764.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11764.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\CompetitiveProgramming\Easy\UVa_11764.cpp -o CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_11764.cpp.s
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11799.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11799.cpp.obj: ../Easy/UVa_11799.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11799.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_11799.cpp.obj -c D:\CLionProjects\CompetitiveProgramming\Easy\UVa_11799.cpp
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11799.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11799.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\CompetitiveProgramming\Easy\UVa_11799.cpp > CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_11799.cpp.i
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11799.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11799.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\CompetitiveProgramming\Easy\UVa_11799.cpp -o CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_11799.cpp.s
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11942.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11942.cpp.obj: ../Easy/UVa_11942.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11942.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_11942.cpp.obj -c D:\CLionProjects\CompetitiveProgramming\Easy\UVa_11942.cpp
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11942.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11942.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\CompetitiveProgramming\Easy\UVa_11942.cpp > CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_11942.cpp.i
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11942.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11942.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\CompetitiveProgramming\Easy\UVa_11942.cpp -o CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_11942.cpp.s
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12015.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12015.cpp.obj: ../Easy/UVa_12015.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12015.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_12015.cpp.obj -c D:\CLionProjects\CompetitiveProgramming\Easy\UVa_12015.cpp
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12015.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12015.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\CompetitiveProgramming\Easy\UVa_12015.cpp > CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_12015.cpp.i
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12015.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12015.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\CompetitiveProgramming\Easy\UVa_12015.cpp -o CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_12015.cpp.s
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12157.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12157.cpp.obj: ../Easy/UVa_12157.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12157.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_12157.cpp.obj -c D:\CLionProjects\CompetitiveProgramming\Easy\UVa_12157.cpp
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12157.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12157.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\CompetitiveProgramming\Easy\UVa_12157.cpp > CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_12157.cpp.i
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12157.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12157.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\CompetitiveProgramming\Easy\UVa_12157.cpp -o CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_12157.cpp.s
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12468.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12468.cpp.obj: ../Easy/UVa_12468.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12468.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_12468.cpp.obj -c D:\CLionProjects\CompetitiveProgramming\Easy\UVa_12468.cpp
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12468.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12468.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\CompetitiveProgramming\Easy\UVa_12468.cpp > CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_12468.cpp.i
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12468.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12468.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\CompetitiveProgramming\Easy\UVa_12468.cpp -o CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_12468.cpp.s
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12503.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12503.cpp.obj: ../Easy/UVa_12503.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12503.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_12503.cpp.obj -c D:\CLionProjects\CompetitiveProgramming\Easy\UVa_12503.cpp
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12503.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12503.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\CompetitiveProgramming\Easy\UVa_12503.cpp > CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_12503.cpp.i
+
+CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12503.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12503.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\CompetitiveProgramming\Easy\UVa_12503.cpp -o CMakeFiles\CompetitiveProgramming.dir\Easy\UVa_12503.cpp.s
+
+CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_573.cpp.obj: CMakeFiles/CompetitiveProgramming.dir/flags.make
+CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_573.cpp.obj: ../Medium/UVa_573.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_573.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CompetitiveProgramming.dir\Medium\UVa_573.cpp.obj -c D:\CLionProjects\CompetitiveProgramming\Medium\UVa_573.cpp
+
+CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_573.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_573.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\CompetitiveProgramming\Medium\UVa_573.cpp > CMakeFiles\CompetitiveProgramming.dir\Medium\UVa_573.cpp.i
+
+CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_573.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_573.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\CompetitiveProgramming\Medium\UVa_573.cpp -o CMakeFiles\CompetitiveProgramming.dir\Medium\UVa_573.cpp.s
+
 # Object files for target CompetitiveProgramming
 CompetitiveProgramming_OBJECTS = \
 "CMakeFiles/CompetitiveProgramming.dir/main.cpp.obj" \
@@ -337,7 +441,15 @@ CompetitiveProgramming_OBJECTS = \
 "CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_10300.cpp.obj" \
 "CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11332.cpp.obj" \
 "CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11559.cpp.obj" \
-"CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11679.cpp.obj"
+"CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11679.cpp.obj" \
+"CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11764.cpp.obj" \
+"CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11799.cpp.obj" \
+"CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11942.cpp.obj" \
+"CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12015.cpp.obj" \
+"CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12157.cpp.obj" \
+"CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12468.cpp.obj" \
+"CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12503.cpp.obj" \
+"CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_573.cpp.obj"
 
 # External object files for target CompetitiveProgramming
 CompetitiveProgramming_EXTERNAL_OBJECTS =
@@ -362,11 +474,19 @@ CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_10300
 CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11332.cpp.obj
 CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11559.cpp.obj
 CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11679.cpp.obj
+CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11764.cpp.obj
+CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11799.cpp.obj
+CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11942.cpp.obj
+CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12015.cpp.obj
+CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12157.cpp.obj
+CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12468.cpp.obj
+CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12503.cpp.obj
+CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_573.cpp.obj
 CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/build.make
 CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/linklibs.rsp
 CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/objects1.rsp
 CompetitiveProgramming.exe: CMakeFiles/CompetitiveProgramming.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable CompetitiveProgramming.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\CompetitiveProgramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Linking CXX executable CompetitiveProgramming.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CompetitiveProgramming.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

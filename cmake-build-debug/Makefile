@@ -230,6 +230,195 @@ Easy/UVa_11679.cpp.s:
 	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11679.cpp.s
 .PHONY : Easy/UVa_11679.cpp.s
 
+Easy/UVa_11764.obj: Easy/UVa_11764.cpp.obj
+
+.PHONY : Easy/UVa_11764.obj
+
+# target to build an object file
+Easy/UVa_11764.cpp.obj:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11764.cpp.obj
+.PHONY : Easy/UVa_11764.cpp.obj
+
+Easy/UVa_11764.i: Easy/UVa_11764.cpp.i
+
+.PHONY : Easy/UVa_11764.i
+
+# target to preprocess a source file
+Easy/UVa_11764.cpp.i:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11764.cpp.i
+.PHONY : Easy/UVa_11764.cpp.i
+
+Easy/UVa_11764.s: Easy/UVa_11764.cpp.s
+
+.PHONY : Easy/UVa_11764.s
+
+# target to generate assembly for a file
+Easy/UVa_11764.cpp.s:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11764.cpp.s
+.PHONY : Easy/UVa_11764.cpp.s
+
+Easy/UVa_11799.obj: Easy/UVa_11799.cpp.obj
+
+.PHONY : Easy/UVa_11799.obj
+
+# target to build an object file
+Easy/UVa_11799.cpp.obj:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11799.cpp.obj
+.PHONY : Easy/UVa_11799.cpp.obj
+
+Easy/UVa_11799.i: Easy/UVa_11799.cpp.i
+
+.PHONY : Easy/UVa_11799.i
+
+# target to preprocess a source file
+Easy/UVa_11799.cpp.i:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11799.cpp.i
+.PHONY : Easy/UVa_11799.cpp.i
+
+Easy/UVa_11799.s: Easy/UVa_11799.cpp.s
+
+.PHONY : Easy/UVa_11799.s
+
+# target to generate assembly for a file
+Easy/UVa_11799.cpp.s:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11799.cpp.s
+.PHONY : Easy/UVa_11799.cpp.s
+
+Easy/UVa_11942.obj: Easy/UVa_11942.cpp.obj
+
+.PHONY : Easy/UVa_11942.obj
+
+# target to build an object file
+Easy/UVa_11942.cpp.obj:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11942.cpp.obj
+.PHONY : Easy/UVa_11942.cpp.obj
+
+Easy/UVa_11942.i: Easy/UVa_11942.cpp.i
+
+.PHONY : Easy/UVa_11942.i
+
+# target to preprocess a source file
+Easy/UVa_11942.cpp.i:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11942.cpp.i
+.PHONY : Easy/UVa_11942.cpp.i
+
+Easy/UVa_11942.s: Easy/UVa_11942.cpp.s
+
+.PHONY : Easy/UVa_11942.s
+
+# target to generate assembly for a file
+Easy/UVa_11942.cpp.s:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_11942.cpp.s
+.PHONY : Easy/UVa_11942.cpp.s
+
+Easy/UVa_12015.obj: Easy/UVa_12015.cpp.obj
+
+.PHONY : Easy/UVa_12015.obj
+
+# target to build an object file
+Easy/UVa_12015.cpp.obj:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12015.cpp.obj
+.PHONY : Easy/UVa_12015.cpp.obj
+
+Easy/UVa_12015.i: Easy/UVa_12015.cpp.i
+
+.PHONY : Easy/UVa_12015.i
+
+# target to preprocess a source file
+Easy/UVa_12015.cpp.i:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12015.cpp.i
+.PHONY : Easy/UVa_12015.cpp.i
+
+Easy/UVa_12015.s: Easy/UVa_12015.cpp.s
+
+.PHONY : Easy/UVa_12015.s
+
+# target to generate assembly for a file
+Easy/UVa_12015.cpp.s:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12015.cpp.s
+.PHONY : Easy/UVa_12015.cpp.s
+
+Easy/UVa_12157.obj: Easy/UVa_12157.cpp.obj
+
+.PHONY : Easy/UVa_12157.obj
+
+# target to build an object file
+Easy/UVa_12157.cpp.obj:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12157.cpp.obj
+.PHONY : Easy/UVa_12157.cpp.obj
+
+Easy/UVa_12157.i: Easy/UVa_12157.cpp.i
+
+.PHONY : Easy/UVa_12157.i
+
+# target to preprocess a source file
+Easy/UVa_12157.cpp.i:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12157.cpp.i
+.PHONY : Easy/UVa_12157.cpp.i
+
+Easy/UVa_12157.s: Easy/UVa_12157.cpp.s
+
+.PHONY : Easy/UVa_12157.s
+
+# target to generate assembly for a file
+Easy/UVa_12157.cpp.s:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12157.cpp.s
+.PHONY : Easy/UVa_12157.cpp.s
+
+Easy/UVa_12468.obj: Easy/UVa_12468.cpp.obj
+
+.PHONY : Easy/UVa_12468.obj
+
+# target to build an object file
+Easy/UVa_12468.cpp.obj:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12468.cpp.obj
+.PHONY : Easy/UVa_12468.cpp.obj
+
+Easy/UVa_12468.i: Easy/UVa_12468.cpp.i
+
+.PHONY : Easy/UVa_12468.i
+
+# target to preprocess a source file
+Easy/UVa_12468.cpp.i:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12468.cpp.i
+.PHONY : Easy/UVa_12468.cpp.i
+
+Easy/UVa_12468.s: Easy/UVa_12468.cpp.s
+
+.PHONY : Easy/UVa_12468.s
+
+# target to generate assembly for a file
+Easy/UVa_12468.cpp.s:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12468.cpp.s
+.PHONY : Easy/UVa_12468.cpp.s
+
+Easy/UVa_12503.obj: Easy/UVa_12503.cpp.obj
+
+.PHONY : Easy/UVa_12503.obj
+
+# target to build an object file
+Easy/UVa_12503.cpp.obj:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12503.cpp.obj
+.PHONY : Easy/UVa_12503.cpp.obj
+
+Easy/UVa_12503.i: Easy/UVa_12503.cpp.i
+
+.PHONY : Easy/UVa_12503.i
+
+# target to preprocess a source file
+Easy/UVa_12503.cpp.i:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12503.cpp.i
+.PHONY : Easy/UVa_12503.cpp.i
+
+Easy/UVa_12503.s: Easy/UVa_12503.cpp.s
+
+.PHONY : Easy/UVa_12503.s
+
+# target to generate assembly for a file
+Easy/UVa_12503.cpp.s:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_12503.cpp.s
+.PHONY : Easy/UVa_12503.cpp.s
+
 Easy/UVa_621.obj: Easy/UVa_621.cpp.obj
 
 .PHONY : Easy/UVa_621.obj
@@ -256,6 +445,33 @@ Easy/UVa_621.s: Easy/UVa_621.cpp.s
 Easy/UVa_621.cpp.s:
 	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_621.cpp.s
 .PHONY : Easy/UVa_621.cpp.s
+
+Medium/UVa_573.obj: Medium/UVa_573.cpp.obj
+
+.PHONY : Medium/UVa_573.obj
+
+# target to build an object file
+Medium/UVa_573.cpp.obj:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_573.cpp.obj
+.PHONY : Medium/UVa_573.cpp.obj
+
+Medium/UVa_573.i: Medium/UVa_573.cpp.i
+
+.PHONY : Medium/UVa_573.i
+
+# target to preprocess a source file
+Medium/UVa_573.cpp.i:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_573.cpp.i
+.PHONY : Medium/UVa_573.cpp.i
+
+Medium/UVa_573.s: Medium/UVa_573.cpp.s
+
+.PHONY : Medium/UVa_573.s
+
+# target to generate assembly for a file
+Medium/UVa_573.cpp.s:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_573.cpp.s
+.PHONY : Medium/UVa_573.cpp.s
 
 Super_Easy/UVa_11044.obj: Super_Easy/UVa_11044.cpp.obj
 
@@ -683,9 +899,33 @@ help:
 	@echo ... Easy/UVa_11679.obj
 	@echo ... Easy/UVa_11679.i
 	@echo ... Easy/UVa_11679.s
+	@echo ... Easy/UVa_11764.obj
+	@echo ... Easy/UVa_11764.i
+	@echo ... Easy/UVa_11764.s
+	@echo ... Easy/UVa_11799.obj
+	@echo ... Easy/UVa_11799.i
+	@echo ... Easy/UVa_11799.s
+	@echo ... Easy/UVa_11942.obj
+	@echo ... Easy/UVa_11942.i
+	@echo ... Easy/UVa_11942.s
+	@echo ... Easy/UVa_12015.obj
+	@echo ... Easy/UVa_12015.i
+	@echo ... Easy/UVa_12015.s
+	@echo ... Easy/UVa_12157.obj
+	@echo ... Easy/UVa_12157.i
+	@echo ... Easy/UVa_12157.s
+	@echo ... Easy/UVa_12468.obj
+	@echo ... Easy/UVa_12468.i
+	@echo ... Easy/UVa_12468.s
+	@echo ... Easy/UVa_12503.obj
+	@echo ... Easy/UVa_12503.i
+	@echo ... Easy/UVa_12503.s
 	@echo ... Easy/UVa_621.obj
 	@echo ... Easy/UVa_621.i
 	@echo ... Easy/UVa_621.s
+	@echo ... Medium/UVa_573.obj
+	@echo ... Medium/UVa_573.i
+	@echo ... Medium/UVa_573.s
 	@echo ... Super_Easy/UVa_11044.obj
 	@echo ... Super_Easy/UVa_11044.i
 	@echo ... Super_Easy/UVa_11044.s
