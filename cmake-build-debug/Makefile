@@ -446,6 +446,87 @@ Easy/UVa_621.cpp.s:
 	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Easy/UVa_621.cpp.s
 .PHONY : Easy/UVa_621.cpp.s
 
+Medium/UVa_10141_Inspection.obj: Medium/UVa_10141_Inspection.cpp.obj
+
+.PHONY : Medium/UVa_10141_Inspection.obj
+
+# target to build an object file
+Medium/UVa_10141_Inspection.cpp.obj:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_10141_Inspection.cpp.obj
+.PHONY : Medium/UVa_10141_Inspection.cpp.obj
+
+Medium/UVa_10141_Inspection.i: Medium/UVa_10141_Inspection.cpp.i
+
+.PHONY : Medium/UVa_10141_Inspection.i
+
+# target to preprocess a source file
+Medium/UVa_10141_Inspection.cpp.i:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_10141_Inspection.cpp.i
+.PHONY : Medium/UVa_10141_Inspection.cpp.i
+
+Medium/UVa_10141_Inspection.s: Medium/UVa_10141_Inspection.cpp.s
+
+.PHONY : Medium/UVa_10141_Inspection.s
+
+# target to generate assembly for a file
+Medium/UVa_10141_Inspection.cpp.s:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_10141_Inspection.cpp.s
+.PHONY : Medium/UVa_10141_Inspection.cpp.s
+
+Medium/UVa_10324.obj: Medium/UVa_10324.cpp.obj
+
+.PHONY : Medium/UVa_10324.obj
+
+# target to build an object file
+Medium/UVa_10324.cpp.obj:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_10324.cpp.obj
+.PHONY : Medium/UVa_10324.cpp.obj
+
+Medium/UVa_10324.i: Medium/UVa_10324.cpp.i
+
+.PHONY : Medium/UVa_10324.i
+
+# target to preprocess a source file
+Medium/UVa_10324.cpp.i:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_10324.cpp.i
+.PHONY : Medium/UVa_10324.cpp.i
+
+Medium/UVa_10324.s: Medium/UVa_10324.cpp.s
+
+.PHONY : Medium/UVa_10324.s
+
+# target to generate assembly for a file
+Medium/UVa_10324.cpp.s:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_10324.cpp.s
+.PHONY : Medium/UVa_10324.cpp.s
+
+Medium/UVa_10424.obj: Medium/UVa_10424.cpp.obj
+
+.PHONY : Medium/UVa_10424.obj
+
+# target to build an object file
+Medium/UVa_10424.cpp.obj:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_10424.cpp.obj
+.PHONY : Medium/UVa_10424.cpp.obj
+
+Medium/UVa_10424.i: Medium/UVa_10424.cpp.i
+
+.PHONY : Medium/UVa_10424.i
+
+# target to preprocess a source file
+Medium/UVa_10424.cpp.i:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_10424.cpp.i
+.PHONY : Medium/UVa_10424.cpp.i
+
+Medium/UVa_10424.s: Medium/UVa_10424.cpp.s
+
+.PHONY : Medium/UVa_10424.s
+
+# target to generate assembly for a file
+Medium/UVa_10424.cpp.s:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_10424.cpp.s
+.PHONY : Medium/UVa_10424.cpp.s
+
 Medium/UVa_573.obj: Medium/UVa_573.cpp.obj
 
 .PHONY : Medium/UVa_573.obj
@@ -472,6 +553,33 @@ Medium/UVa_573.s: Medium/UVa_573.cpp.s
 Medium/UVa_573.cpp.s:
 	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_573.cpp.s
 .PHONY : Medium/UVa_573.cpp.s
+
+Medium/UVa_661.obj: Medium/UVa_661.cpp.obj
+
+.PHONY : Medium/UVa_661.obj
+
+# target to build an object file
+Medium/UVa_661.cpp.obj:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_661.cpp.obj
+.PHONY : Medium/UVa_661.cpp.obj
+
+Medium/UVa_661.i: Medium/UVa_661.cpp.i
+
+.PHONY : Medium/UVa_661.i
+
+# target to preprocess a source file
+Medium/UVa_661.cpp.i:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_661.cpp.i
+.PHONY : Medium/UVa_661.cpp.i
+
+Medium/UVa_661.s: Medium/UVa_661.cpp.s
+
+.PHONY : Medium/UVa_661.s
+
+# target to generate assembly for a file
+Medium/UVa_661.cpp.s:
+	$(MAKE) -f CMakeFiles\CompetitiveProgramming.dir\build.make CMakeFiles/CompetitiveProgramming.dir/Medium/UVa_661.cpp.s
+.PHONY : Medium/UVa_661.cpp.s
 
 Super_Easy/UVa_11044.obj: Super_Easy/UVa_11044.cpp.obj
 
@@ -923,9 +1031,21 @@ help:
 	@echo ... Easy/UVa_621.obj
 	@echo ... Easy/UVa_621.i
 	@echo ... Easy/UVa_621.s
+	@echo ... Medium/UVa_10141_Inspection.obj
+	@echo ... Medium/UVa_10141_Inspection.i
+	@echo ... Medium/UVa_10141_Inspection.s
+	@echo ... Medium/UVa_10324.obj
+	@echo ... Medium/UVa_10324.i
+	@echo ... Medium/UVa_10324.s
+	@echo ... Medium/UVa_10424.obj
+	@echo ... Medium/UVa_10424.i
+	@echo ... Medium/UVa_10424.s
 	@echo ... Medium/UVa_573.obj
 	@echo ... Medium/UVa_573.i
 	@echo ... Medium/UVa_573.s
+	@echo ... Medium/UVa_661.obj
+	@echo ... Medium/UVa_661.i
+	@echo ... Medium/UVa_661.s
 	@echo ... Super_Easy/UVa_11044.obj
 	@echo ... Super_Easy/UVa_11044.i
 	@echo ... Super_Easy/UVa_11044.s
